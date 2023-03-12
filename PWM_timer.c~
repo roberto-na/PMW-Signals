@@ -1,0 +1,17 @@
+/*
+ * PWM_timer.c
+ *
+ * Created: 23/03/2018 12:00:38 p. m.
+ * Author: barby
+ */
+
+#include <mega328p.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}
